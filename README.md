@@ -1,10 +1,10 @@
 # Olá, Eu sou Emanuel Gonçalves! 👋🚀
 # Hello, I'm Emanuel Gonçalves! 👋🚀
 
-pt-br
+pt-br | 
 Sou estagiário de desenvolvimento Full Stack e estou utilizando o GitHub para controle de projetos pessoais e desenvolvimento profissional. Aqui você encontrará meus projetos, experimentos e contribuições enquanto aprimoro minhas habilidades e aprendo novas tecnologias.
 
-en
+en | 
 I am a Full Stack Development intern, and I am using GitHub to manage personal projects and professional development. Here, you will find my projects, experiments, and contributions as I improve my skills and learn new technologies.
 
 <br>
