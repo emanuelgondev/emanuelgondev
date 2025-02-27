@@ -1,4 +1,4 @@
-# Olá, Eu sou Emanuel Gonçalves! 👋
+# Olá, Eu sou Emanuel Gonçalves! 👋🚀
 
 Sou estagiário de desenvolvimento Full Stack e estou utilizando o GitHub para controle de projetos pessoais e desenvolvimento profissional. Aqui você encontrará meus projetos, experimentos e contribuições enquanto aprimoro minhas habilidades e aprendo novas tecnologias.
 
