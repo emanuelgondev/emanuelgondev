@@ -27,6 +27,6 @@ Sou estagiário de desenvolvimento Full Stack e estou utilizando o GitHub para c
 ### Status do GitHub
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="441">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight" width="335">
+    <img src="https://github-readme-stats.vercel.app/api?username=emanuelgondev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="441">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelgondev&layout=compact&theme=tokyonight" width="335">
 </p>
