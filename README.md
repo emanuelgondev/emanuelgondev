@@ -11,7 +11,7 @@ I am a Full Stack Development intern, and I am using GitHub to manage personal p
 
 ## Conhecimentos
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,angular,figma,html,css,js,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,angular,figma,html,css,js,java,jenkins)](https://skillicons.dev)
 
 <br>
 
