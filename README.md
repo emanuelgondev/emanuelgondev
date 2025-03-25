@@ -11,13 +11,13 @@ I am a Full Stack Development intern, and I am using GitHub to manage personal p
 
 ## Conhecimentos
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,angular,figma,html,css,js,java&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,angular,figma,html,css,js,java)](https://skillicons.dev)
 
 <br>
 
 ## Contato
 
-[<kbd>![Discord](https://skillicons.dev/icons?i=discord&perline=3)</kbd>](https://discord.gg/seu-link-do-discord)
+[<kbd>![Discord](https://skillicons.dev/icons?i=discord)</kbd>](https://discord.gg/seu-link-do-discord)
 
 <br>
 
